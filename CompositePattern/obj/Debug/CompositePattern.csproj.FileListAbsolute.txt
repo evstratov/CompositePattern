@@ -1,0 +1,6 @@
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\CompositePattern\CompositePattern\bin\Debug\CompositePattern.exe.config
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\CompositePattern\CompositePattern\bin\Debug\CompositePattern.exe
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\CompositePattern\CompositePattern\bin\Debug\CompositePattern.pdb
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\CompositePattern\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\CompositePattern\CompositePattern\obj\Debug\CompositePattern.exe
+C:\Users\evstratov\Documents\Visual Studio 2015\Projects\Patterns\CompositePattern\CompositePattern\obj\Debug\CompositePattern.pdb
